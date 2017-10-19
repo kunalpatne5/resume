@@ -1,0 +1,26 @@
+.quote{
+	background-color:skyblue;
+}
+.bloc{
+	background-color:powderblue;
+	color:solid gray;
+
+}
+.one{
+	color:solid gray;
+}
+.two{
+	color:white;
+}
+table,th,td{
+	border:5px solid white;
+	border-collapse:collapse;
+	padding:3px;
+}
+.formc{
+	font-family:impact;
+	color:blue;
+}
+.col{
+	font-family:garamond;
+}
